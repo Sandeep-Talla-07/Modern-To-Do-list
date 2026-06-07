@@ -5,6 +5,5 @@
 
 ![Home Page](img-1.png)
 
-## 📸 Screenshots
 
 ![Home Page](img-2.png)
